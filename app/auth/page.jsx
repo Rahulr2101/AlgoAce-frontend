@@ -148,7 +148,7 @@ export default function Page() {
                 setPassword("123")
               }}
               className="w-full">
-              Auto-fill
+              Test Account
             </Button>):(<></>)}
           </div>
         </div>
